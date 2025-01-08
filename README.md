@@ -6,7 +6,6 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 ![image](https://github.com/user-attachments/assets/113eb46e-e468-4549-abf9-13e9d0a4e410)
 
-<h2>Video Demonstration</h2>
 
 <h2>Environments and Technologies Used</h2>
 
