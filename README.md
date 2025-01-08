@@ -1,14 +1,12 @@
 <p align="center">
-<img src="https://imgur.com/a/azure-portal-logo-arhf2a7"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>Virtual Machine Setup  </h1>
 This tutorial outlines the post-installation configuration of the open-source help desk ticketing system osTicket.<br />
 
+![image](https://github.com/user-attachments/assets/113eb46e-e468-4549-abf9-13e9d0a4e410)
 
 <h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -30,8 +28,8 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>![Virtual Machine Git](https://github.com/user-attachments/assets/94417030-0936-4854-80b9-9e61e239ff0e)
+
 </p>
 <p>
 It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
