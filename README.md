@@ -2,7 +2,7 @@
 </p>
 
 <h1>Virtual Machine Setup  </h1>
-This tutorial outlines the creation of a virtual machine in Microsft Azure.<br />
+This tutorial outlines the creation of a virtual machine in Microsoft Azure.<br />
 
 ![image](https://github.com/user-attachments/assets/113eb46e-e468-4549-abf9-13e9d0a4e410)
 
